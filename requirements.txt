@@ -9,4 +9,5 @@ PyPDF2
 chromadb
 numpy<1.26.0
 faiss-cpu
+pytube
 certifi
